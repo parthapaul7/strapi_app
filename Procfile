@@ -1,1 +1,1 @@
-web: strapi develop
+web: yarn start 
